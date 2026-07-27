@@ -22,7 +22,7 @@ The goal is to build a strong understanding of Python by learning concepts step 
 
 | Day | Topic | Status |
 |-----|-----------------------------------|:------:|
-| 1 | Introduction to Python | ✅ Completed |
+| 1 | Introduction to Python | ⏳ Pending |
 | 2 | Python Syntax & Variables | ✅ Completed |
 | 3 | Data Types & Input/Output | ✅ Completed |
 
