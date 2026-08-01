@@ -26,6 +26,7 @@ The goal is to build a strong understanding of Python by learning concepts step 
 | 2   | Python Syntax & Variables | ✅ Completed |
 | 3   | Data Types & Input/Output | ✅ Completed |
 | 4   | Operators & Expressions   | ✅ Completed |
+| 5   | Control Flow (Decision Making)   | ✅ Completed |
 
 
 > The table will be updated as new topics are completed.
