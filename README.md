@@ -20,13 +20,14 @@ The goal is to build a strong understanding of Python by learning concepts step 
 
 ## 📚 Progress
 
-| Day | Topic                     |    Status   |
-| --- | ------------------------- | :---------: |
-| 1   | Introduction to Python    |  ⏳ Pending  |
-| 2   | Python Syntax & Variables | ✅ Completed |
-| 3   | Data Types & Input/Output | ✅ Completed |
-| 4   | Operators & Expressions   | ✅ Completed |
-| 5   | Control Flow (Decision Making)   | ✅ Completed |
+| Day | Topic | Status |
+| --- | ------------------------------ | :---------: |
+| 1 | Introduction to Python | ⏳ Pending |
+| 2 | Python Syntax & Variables | ✅ Completed |
+| 3 | Data Types & Input/Output | ✅ Completed |
+| 4 | Operators & Expressions | ✅ Completed |
+| 5 | Control Flow (Decision Making) | ✅ Completed |
+| 6 | Loops | ✅ Completed |
 
 
 > The table will be updated as new topics are completed.
