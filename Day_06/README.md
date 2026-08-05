@@ -65,6 +65,7 @@
 
 ## 📁 Files Included
 
+* `projects`
 * `control_flow_statement.py`
 * `loop_control.py`
 * `coding_problems_part1.py`
