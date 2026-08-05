@@ -65,12 +65,23 @@
 
 ## 📁 Files Included
 
-* `projects`
-* `control_flow_statement.py`
-* `loop_control.py`
-* `coding_problems_part1.py`
-* `coding_problems_part2.py`
-* `conceptual_questions.py`
-* `README.md`
+```text
+Day_06/
+│── control_flow_statement.py
+│── loop_control.py
+│── coding_problems_part1.py
+│── coding_problems_part2.py
+│── conceptual_questions.py
+│── README.md
+│
+└── projects/
+    │── README.md
+    │── number_guessing_game.py
+    │── pattern_generator.py
+    │── number_analysis_tool.py
+    │── multiplication_table_generator.py
+    │── prime_number_explorer.py
+    │── mini_calculator.py
+```
 
 ---
