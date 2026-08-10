@@ -28,6 +28,7 @@ The goal is to build a strong understanding of Python by learning concepts step 
 | 4 | Operators & Expressions | ✅ Completed |
 | 5 | Control Flow (Decision Making) | ✅ Completed |
 | 6 | Loops | ✅ Completed |
+| 7   | Weekly Revision (Days 2–6)     | ✅ Completed |
 
 
 > The table will be updated as new topics are completed.
